@@ -11,3 +11,6 @@ To get the app started, run the command:
 
 Your Mnemonic key phrases can be found here:
 https://github.com/Raytchellee/Le-chat-noir/edit/master/src/note.txt
+
+Here's a link to the live demo of the game:
+https://drive.google.com/file/d/1XB3L2e_1yDsQxM79IO7v-0JVb7ag2Ujt/view
