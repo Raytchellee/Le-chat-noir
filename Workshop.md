@@ -2,7 +2,7 @@
 
 ---
 
-In this workshop, we'll go through our bounty hack submission for the Decentralized Umoja 3 Bounty Hack.
+In this workshop, we'll go through our bounty hack submission.
 
 This workshop assumes that you've completed the tutorial.
 
